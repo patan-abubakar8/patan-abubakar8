@@ -1,103 +1,149 @@
-# Hi, I'm Patan Abubakar
+<h1 align="center">Hi 👋, I'm Patan Abubakar</h1>
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=32&fontColor=ffffff)
+<h3 align="center">
+Software Developer • .NET Developer • UI/UX Enthusiast
+</h3>
 
-I'm a **Full Stack Java Developer**, UI/UX Enthusiast, and a passionate learner who loves solving real-world problems with code. I'm currently focused on building production-grade backend systems using **Spring Boot**, **Microservices**, **JWT**, and **Cloud** infrastructure, while also designing beautiful and intuitive interfaces.
+<p align="center">
+Building scalable applications, clean user experiences, and solving real-world problems through technology.
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=patan-abubakar8&theme=react&hide_border=true)             ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=patan-abubakar8&theme=radical&no-frame=true&column=4) 
-
----
-
-## 🚀 Tech Stack
-
-| 💻 Backend   | 🌐 Frontend     | 🔧 Tools & DevOps    | 📦 Database         |
-|-------------|----------------|----------------------|---------------------|
-| Java, Spring Boot | HTML, CSS, JavaScript | Git, Docker, VS Code | MySQL, MongoDB      |
-| REST API, JWT    | React, Tailwind CSS  | Postman, Swagger UI  | Redis (Learning)    |
-| Microservices     | Figma (UI/UX)        | CI/CD (Basic)        | Firebase (UI Apps)  |
+<p align="center">
+<a href="mailto:patan.abubakar.2002@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/patan-abubakar-b61338237/">LinkedIn</a> •
+<a href="https://github.com/patan-abubakar8">GitHub</a>
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 About Me
 
-- ✅ Spring Security, JWT, OAuth2
-- ✅ Kafka, Redis, Docker, Swagger
-- ✅ Microservices Architecture
-- ✅ Cloud Deployments (Render, AWS EC2)
-- ✅ Clean Code, Scalable System Design
+- 💼 Software Developer specializing in enterprise applications
+- ⚡ Currently working in the **C# & .NET ecosystem**
+- 🌱 Learning **Cloud, System Design, Docker, CI/CD, and Microservices**
+- 🎨 Passionate about **UI/UX Design and Product Thinking**
+- 🧠 Strong believer in continuous learning and building things that matter
+- ✍️ Writer, storyteller, and creator of *The Storm*
 
 ---
 
-## 🧠 Featured Projects
+## 🛠 Tech Stack
 
-### 📦 **Simple E-Commerce API**
-A complete backend using Spring Boot, JWT Auth, and clean architecture.  
-Supports customer registration, login, product ordering, cart, and role-based security.
+<div align="center">
 
-```bash
-git clone https://github.com/patan-abubakar8/simple-ecommerce-api.git
-cd simple-ecommerce-app
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,angular,react,ts,js,html,css,mysql,mongodb,redis,docker,git,github,postman,figma,vscode" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+✓ Enterprise .NET Development
+✓ Angular Frontend Development
+✓ Clean Architecture
+✓ REST APIs & Authentication
+✓ Docker & CI/CD
+✓ Cloud Deployments
+✓ System Design
 ```
 
+---
+
+## 🌟 Featured Projects
+
 ### 💍 Wedding Management System
-A real-world full-stack project with different dashboards for Couples, Planners, and Vendors.
-- Guest View via QR Code (no app install)
-- Vendor and Planner Dashboards
-- Budget Optimization Agent (in progress)
-- Built with Spring Boot, React, and Figma for UI/UX
 
-### 🧠 Securing Data with AI and Blockchain
-- A secure file storage system integrating:
-- Blockchain Smart Contracts (Solidity)
-- AI Anomaly Detection (Sklearn)
-- Python Flask, React, SQL
+A complete platform connecting couples, planners, vendors, and guests.
 
+#### Features
+- QR Based Guest Access
+- Vendor Dashboard
+- Planner Dashboard
+- Budget Optimization Engine
+- Event Tracking & Management
 
-
-## 📝 Blog & Writing
-
-> "If I weren't a developer, I'd be a writer or a traveler."
-
-I also write stories, poems, and love sharing knowledge on:
-
-- 📷 **Islamic Knowledge Project** (coming soon on Instagram)
-- ✍️ **Short stories** on emotion and justice (like my novel _"The Storm"_)
+**Tech Stack:** Spring Boot • React • MySQL • Figma
 
 ---
 
-## 🧑‍💼 Certifications
+### 🔐 Securing Data with AI & Blockchain
 
-| **Course**                    | **Institute**                        | **Duration**           |
-|------------------------------|--------------------------------------|------------------------|
-| Full Stack Java Developer    | Tap Academy                          | Feb 2024 – Aug 2024    |
-| Responsive Web Design        | FreeCodeCamp                         | Jul 2023 – Sep 2023    |
-| UI/UX Design                 | Shripathi Educational Institute      | Jan 2024 – Mar 2024    |
+Secure file storage system leveraging blockchain and AI-driven anomaly detection.
+
+#### Features
+- Smart Contract Integration
+- AI Security Monitoring
+- Secure Data Storage
+- Real-Time Threat Detection
+
+**Tech Stack:** Python • Flask • React • SQL
 
 ---
 
-## 📬 Connect With Me
+### 🛒 Quikart
 
-| **Platform**   | **Link**                                                                 |
-|----------------|--------------------------------------------------------------------------|
-| 🌐 Portfolio    | [GitHub Profile](https://github.com/patan-abubakar8)                   |
-| 💼 LinkedIn     | [LinkedIn](https://www.linkedin.com/in/patan-abubakar-b61338237/)      |
-| 📧 Email        | patan.abubakar.2002@gmail.com                                           |
-| 📱 Phone        | +91 7330727902                                                          |
+Modern E-Commerce Platform focused on performance and scalability.
 
+#### Features
+- Authentication & Authorization
+- Product Management
+- Cart & Orders
+- Responsive UI
 
-## 📈 GitHub Stats
+**Tech Stack:** .NET • Angular • SQL Server
 
-![Patan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patan-abubakar8&show_icons=true&theme=react&hide_border=true)       ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patan-abubakar8&layout=compact&theme=react&hide_border=true)
+---
 
-## 🛠️ Languages & Tools
+## 📈 GitHub Analytics
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=patan-abubakar8&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patan-abubakar8&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patan-abubakar8&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🎓 Certifications
+
+| Certification | Organization |
+|--------------|-------------|
+| Full Stack Java Developer | Tap Academy |
+| Responsive Web Design | FreeCodeCamp |
+| UI/UX Design | Shripathi Educational Institute |
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+📧 Email: patan.abubakar.2002@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/patan-abubakar-b61338237/
+
+🐙 GitHub: https://github.com/patan-abubakar8
+
+</p>
+
+---
+
+<div align="center">
+
+### "Building products, solving problems, and continuously improving."
+
+</div>
