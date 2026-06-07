@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patan Abubakar</h1>
+<h1 align="center">Hi , I'm Patan Abubakar</h1>
 
 <h3 align="center">
 Software Developer • .NET Developer • UI/UX Enthusiast
@@ -16,18 +16,18 @@ Building scalable applications, clean user experiences, and solving real-world p
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💼 Software Developer specializing in enterprise applications
-- ⚡ Currently working in the **C# & .NET ecosystem**
-- 🌱 Learning **Cloud, System Design, Docker, CI/CD, and Microservices**
-- 🎨 Passionate about **UI/UX Design and Product Thinking**
-- 🧠 Strong believer in continuous learning and building things that matter
-- ✍️ Writer, storyteller, and creator of *The Storm*
+- Software Developer specializing in enterprise applications
+- Currently working in the **C# & .NET ecosystem**
+- Learning **Cloud, System Design, Docker, CI/CD, and Microservices**
+- Passionate about **UI/UX Design and Product Thinking**
+- Strong believer in continuous learning and building things that matter
+- Writer, storyteller, and creator of *The Storm*
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
